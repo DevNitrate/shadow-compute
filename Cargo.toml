@@ -2,6 +2,12 @@
 name = "shadow-compute"
 version = "0.1.0"
 edition = "2024"
+license = "MIT"
+description = "an easy to use compute shader crate"
+repository = "https://github.com/DevNitrate/shadow-compute"
+readme = "README.md"
+keywords = ["graphics", "opengl", "shadow-compute"]
+categories = ["graphics", "rendering"]
 
 [dependencies]
 gl = "0.14.0"
